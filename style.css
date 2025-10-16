@@ -151,7 +151,8 @@ body {
 }
 
 .btn:hover {
-    background-color: #041641;
+    background: #0d3855;
+    transition: 0.3s ease;
 }
 
 .third-Section {
@@ -674,3 +675,4 @@ footer {
     margin: 5px;
 
 }
+
