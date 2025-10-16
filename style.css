@@ -401,6 +401,12 @@ body {
     font-family: "Open Sans", sans-serif;
 }
 
+.skill-header i {
+    color: #93a2c8;
+    margin-right: 8px;
+    font-size: 18px;
+}
+
 .bar {
     width: 100%;
     background: #cabebe;
@@ -666,4 +672,5 @@ footer {
     background-color: white;
     height: 4px;
     margin: 5px;
+
 }
