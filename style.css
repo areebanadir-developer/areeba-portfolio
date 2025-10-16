@@ -153,6 +153,7 @@ body {
 .btn:hover {
     background: #0d3855;
     transition: 0.3s ease;
+    padding: 13px 20px;
 }
 
 .third-Section {
@@ -675,4 +676,5 @@ footer {
     margin: 5px;
 
 }
+
 
